@@ -8,7 +8,7 @@ import xml.dom.minidom
 import urllib
 from yandex_maps import http
 
-STATIC_MAPS_URL = 'http://static-maps.yandex.ru/1.x/?'
+STATIC_MAPS_URL = 'http://api-maps.yandex.ru/2.0/?'
 HOSTED_MAPS_URL = 'http://maps.yandex.ru/?'
 GEOCODE_URL = 'http://geocode-maps.yandex.ru/1.x/?'
 
